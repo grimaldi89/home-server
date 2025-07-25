@@ -210,3 +210,4 @@ service_account.json
 credentials.json
 paperless_metadata.json
 token.pickle
+*.csv
